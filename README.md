@@ -1,51 +1,48 @@
-# tips-data-analysis
-Mini data analysis project using Pandas and visualization
-This is a beginner-friendly data analysis project using the famous 'Tips.csv' dataset.It includes basic data cleaning,exploration, and beautiful visualizations - all done in "Python with Pandas and Seaborn".
-Dataset Used
-"Tips.csv"-Contains restaurant bill,tip,and customer data:
--'TotalBill'
--'Tips'
--'Gender'
--'Smoker'
--'Day'
--'Time'
--'Size'
+# 🧠 Data Analysis Projects using Pandas and Visualization
 
-✅ Concepts Applied
+This repository showcases beginner-friendly data analysis projects done using real-world datasets and visualized using Seaborn & Matplotlib.
 
-- Data Loading and Overview using df.head(), df.info(), df.describe()
-- Checking and handling missing values
-- Exploring data types (object, float64) and converting to category
-- Filtering rows with conditions
-- Sorting data
-- GroupBy operations for grouped insights
-- Correlation analysis and df.corr()
-- Visualizations:
-  - Histogram
-  - Boxplot
-  - Countplot
-  - Barplot
+---
+
+## 📊 Project 1: Tips Dataset Analysis
+
+- Explored relationships between total_bill, tip, and other variables.
+- Cleaned and filtered data using Pandas.
+- Applied groupby, sorting, and condition-based filtering.
+- Visualized insights using:
+  - Bar Plot
+  - Box Plot
   - Heatmap
+  - Count Plot
+
+🗂️ Dataset Source: In-class dataset (Tips.csv)
 
 ---
 
-📈 Tools Used
-- Python 🐍
-- Google Colab
-- Pandas
-- Seaborn
-- Matplotlib
+## ☕ Project 2: Coffee Sales Data Analysis
+
+- Analyzed coffee sales over several months.
+- Calculated total revenue by coffee type and date.
+- Sorted and grouped data using Pandas.
+- Visualized revenue trends using:
+  - Bar Plot
+  - Line Chart
+  - Heatmap (where applicable)
+
+📌 Dataset Source: [Kaggle Coffee Sales Dataset](https://www.kaggle.com/)
 
 ---
 
-🧠 What I Learned
-This project helped me understand how to:
-- Analyze real-world tabular data
-- Build visual stories using plots
-- Ask questions and extract insights
+### 🚀 Skills Used
 
+- pandas for data manipulation  
+- seaborn & matplotlib for data visualization  
+- Groupby, sorting, filtering, and summary statistics  
+- Correlation & insights from real data
+
+---
+
+Feel free to explore the .ipynb notebooks in this repo!
 ---
 Author
 Lakshmi
---
-"This is my first data analysis project. More coming soon!"
