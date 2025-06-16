@@ -41,6 +41,14 @@ This repository showcases beginner-friendly data analysis projects done using re
 - Correlation & insights from real data
 
 ---
+## 📊 Project 3: Food Order Analysis
+
+Analyzed a food delivery dataset to uncover customer ordering behavior.
+- 🔍 Identified top restaurants, expensive cuisines, and peak delivery times.
+- 📈 Visualized insights using bar plots and heatmaps.
+- 🎯 Helped draw conclusions to boost customer satisfaction and delivery efficiency.
+
+📌 Dataset Source: [food_order Dataset](https://www.kaggle.com/)
 
 Feel free to explore the .ipynb notebooks in this repo!
 ---
