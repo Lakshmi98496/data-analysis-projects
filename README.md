@@ -50,6 +50,24 @@ Analyzed a food delivery dataset to uncover customer ordering behavior.
 
 📌 Dataset Source: [food_order Dataset](https://www.kaggle.com/)
 
+---
+## 🍿 Project 4: Netflix Movies & TV Shows Data Analysis
+
+- Analyzed Netflix Movies and TV Shows dataset
+
+- Explored trends in content type (Movies vs TV Shows)
+
+- Examined trends of content added over years
+
+- Analyzed top directors and top contributing countries
+
+- Visualized distribution of content ratings
+
+- Gained insights into Netflix content library
+
+
+📌Dataset Source: Netflix Movies and TV Shows Dataset (Kaggle)
+
 Feel free to explore the .ipynb notebooks in this repo!
 ---
 Author
